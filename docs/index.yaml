@@ -3,6 +3,16 @@ entries:
   yilu-common:
   - apiVersion: v2
     appVersion: "1.0"
+    created: "2024-09-11T18:47:05.282087394Z"
+    description: Yilu Common Chart
+    digest: 7f75188b142d23d63e88d82ee7976b1f11006166a34e4a0322dfdc2b04ee8b98
+    name: yilu-common
+    type: application
+    urls:
+    - yilu-common-0.6.12.tgz
+    version: 0.6.12
+  - apiVersion: v2
+    appVersion: "1.0"
     created: "2024-09-11T18:38:31.489187307Z"
     description: Yilu Common Chart
     digest: 09157a5d4657faddad832cede7e8d112bec7a879dbcc2dfdabbd83b726625363
@@ -228,4 +238,4 @@ entries:
     urls:
     - https://yiluhub.github.io/common-chart/yilu-common-0.1.0.tgz
     version: 0.1.0
-generated: "2024-09-11T18:38:31.489397592Z"
+generated: "2024-09-11T18:47:05.282325308Z"
