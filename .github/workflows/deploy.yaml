@@ -41,4 +41,5 @@ jobs:
           CR_PAGES_INDEX_PATH: docs
         with:
           pages_branch: yilu-common
-          charts_dir: "charts"
+          skip_existing: true
+          packages_with_index: true

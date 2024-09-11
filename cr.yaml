@@ -1,4 +1,0 @@
-pages-branch: yilu-common
-release-notes-file: CHANGELOG.md
-skip-existing: true
-charts-dir: charts
