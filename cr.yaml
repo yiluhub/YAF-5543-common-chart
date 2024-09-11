@@ -1,8 +1,5 @@
 pages-branch: yilu-common
 pages-index-path: index.yaml
-release-name-template: "yilu-common-{{ .Version }}"
-release-notes-file: yilu-common/CHANGELOG.md
-packages-with-index: true
-package-path: docs
+release-notes-file: charts/yilu-common/CHANGELOG.md
 skip-existing: true
 charts-dir: charts
