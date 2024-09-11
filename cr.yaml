@@ -1,5 +1,4 @@
 pages-branch: yilu-common
-pages-index-path: index.yaml
-release-notes-file: charts/yilu-common/CHANGELOG.md
+release-notes-file: CHANGELOG.md
 skip-existing: true
 charts-dir: charts
