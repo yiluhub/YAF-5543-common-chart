@@ -48,6 +48,6 @@ jobs:
         run: |
           git checkout yilu-common
           git show main:charts/yilu-common/README.md > docs/README.md
-          git add docs/readme.md
-          git commit -m "Copied readme.md from main branch to docs in yilu-common"
+          git add docs/README.md
+          git commit -m "Copied README.md from main branch to docs in yilu-common"
           git push origin yilu-common
